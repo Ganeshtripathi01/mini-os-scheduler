@@ -118,3 +118,9 @@ Data Structures:
 -Add priority aging
 -GUI visualization
 -Export Gantt as image
+
+---
+
+📄 License
+
+MIT License (recommended)
